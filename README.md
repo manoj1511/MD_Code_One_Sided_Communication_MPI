@@ -1,7 +1,7 @@
 # MD_Code_One_Sided_Communication_MPI
 converting the two-sided communication in the code to one-sided communication and compare the performance of the modified code with the original code.
 
-##Description
+## Description
 You are given a MPI code (md_mpi.c) which does molecular dynamics simulations of inter-atomic interactions. You have to convert the two-sided communication in the code to one-sided communication and compare the performance of the modified code with the original code.
 
 (MD is a computer simulation technique where the time evolution of a set of
